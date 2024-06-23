@@ -1,0 +1,11 @@
+/* index.css */
+/* index.css */
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.container {
+  padding: 20px;
+}
